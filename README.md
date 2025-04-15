@@ -15,19 +15,25 @@
 
 ---
 
-## Day 2: Task 1
+## Day 1: Task 1
 
 Tasks to be completed in `retail-sales_dataset.xlsx`:
 1. Convert data (columns A–H) into a table.
-2. Apply filter: Sort ‘Age’ from largest to smallest.
-3. Use `SUM` to calculate the total commission in cell `P10`.
-4. Use `AVERAGE` to find the average commission in cell `P11`.
+ ![image](https://github.com/user-attachments/assets/916252e7-2d37-41e4-be1b-4ec696aea449)
 
-Screenshots 
-![image](https://github.com/user-attachments/assets/916252e7-2d37-41e4-be1b-4ec696aea449)
-![image](https://github.com/user-attachments/assets/8127847a-2ca9-4f45-a43e-92eaed49f5f6)
+3. Apply filter: Sort ‘Age’ from largest to smallest.
+ ![image](https://github.com/user-attachments/assets/8127847a-2ca9-4f45-a43e-92eaed49f5f6)
+
+5. Use `SUM` to calculate the total commission in cell `P10`.
 ![image](https://github.com/user-attachments/assets/38602e30-cabb-4802-ac0d-10d36fac8e1c)
+ 
+7. Use `AVERAGE` to find the average commission in cell `P11`.
 ![image](https://github.com/user-attachments/assets/19e81fca-5069-4ea9-a11c-e5ed33523f2d)
+
+
+
+
+
 
 ---
 
