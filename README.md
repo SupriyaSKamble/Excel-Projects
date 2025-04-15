@@ -17,7 +17,7 @@
 
 ## Day 1: Task 1
 
-Tasks to be completed in `retail-sales_dataset.xlsx`:
+Tasks completed in `retail-sales_dataset.xlsx`:
 1. Convert data (columns A–H) into a table.
  ![image](https://github.com/user-attachments/assets/916252e7-2d37-41e4-be1b-4ec696aea449)
 
@@ -33,36 +33,33 @@ Tasks to be completed in `retail-sales_dataset.xlsx`:
 
 
 
+---
 
+## Day 1: Task 2
+
+Tasks completed in `retail-sales_dataset.xlsx`: involve dataset manipulation, sorting, filtering, and conditional formatting.
+
+![image](https://github.com/user-attachments/assets/57298e14-3057-463a-becb-9283955cfd9e)
 
 ---
 
-## Day 2: Task 2
+## Day 2: Task 1
 
-Work on **Task 2 worksheet** in the same Excel file. Task involves dataset manipulation and screenshot submission.
-
----
-
-## Day 3: Task 1
-
-Dataset: `Day_3_Task_1_Bike_Sales_Pivot_Lab.xlsx`
-
-- Explore and practice Pivot Table creation.
-- Answer reflection questions:
+Tasks completed in Dataset: `Day_3_Task_1_Bike_Sales_Pivot_Lab.xlsx`: involve pivot table creation
 
 **Findings:**
 - Germany has customers in the 35–64 age group.
 - Australia has sales in all markets.
 - Most profitable markets: Australia, Female, Young Adults & Adults.
 - Additional insights:
-  - USA has limited demand.
+  - The USA has limited demand.
   - Youth purchases are limited to Australia, France, and some parts of the UK.
   - Most customers are 35–64.
   - Bikes are more popular among females.
 
 ---
 
-## Day 3: Task 2
+## Day 2: Task 2
 
 ### Dataset Provided:
 
