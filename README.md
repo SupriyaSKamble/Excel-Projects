@@ -75,7 +75,19 @@ Tasks completed in Dataset: `Day_3_Task_1_Bike_Sales_Pivot_Lab.xlsx`: involve pi
    - `>600` → **High**
    - `300–600` → **Medium**
    - `<300` → **Low**
+---
 
-**Formula Example:**
-```excel
-=SWITCH(TRUE, C2 > 600, "High", C2 >= 300, "Medium", "Low")
+## Day 2: Task 3 
+
+Tasks completed in Workbook: Day_3_Task_3_Bike_Sales_Visualisations_Lab.xlsx : involve exploring visualisations and chart tools in Excel
+
+
+Use different chart types to compare age groups, gender, product categories, or markets
+
+![image](https://github.com/user-attachments/assets/6e47b841-c383-4771-abaf-357306f3f661)
+
+![image](https://github.com/user-attachments/assets/cdba7be0-f2f4-4e8c-a89a-2ee04873b7e1)
+
+![image](https://github.com/user-attachments/assets/c6bd8455-f84c-4ac6-a97d-2e368cb2959e)
+
+
